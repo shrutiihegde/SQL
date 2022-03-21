@@ -1,2 +1,2 @@
 # SQL
-Hackkerrank SQL practice
+Hackkerrank SQL solns
